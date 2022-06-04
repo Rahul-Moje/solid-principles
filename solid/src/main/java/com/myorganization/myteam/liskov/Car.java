@@ -18,5 +18,5 @@ class MotorCar extends Car {
 }
 
 class ElectricCar extends Car {
-    //this is wrong because now runEngine would be accessible to electric guitar
+    //this is wrong because now runEngine would be accessible to electric car
 }
